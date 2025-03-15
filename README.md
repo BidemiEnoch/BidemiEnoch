@@ -1,4 +1,4 @@
-## <div  style="color:#ccc;font-family: 'Times New Roman', Times, serif;">I'm a frontend developer specialised in web development with reactjs, typescript and nodejs. I'll also totally crush you at chess...maybe! </div><br/>
+## <div  style="color:#ccc;font-family: 'Times New Roman', Times, serif;">Fixing the bugs you wrote. I'll also totally crush you at chess...maybe! </div><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BidemiEnoch&theme=tokyonight&hide=html,css"/><br/>
 
